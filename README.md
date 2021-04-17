@@ -10,7 +10,7 @@ https://github.com/Kaier33/image-hosting-service/blob/main/avatar.jpeg?raw=true
 
 https://cdn.jsdelivr.net/gh/<你的github用户名>/<你的图床仓库名>@<仓库版本号>/图片的路径
 
-举个🌰: 
+> 举个🌰
 
 源图片地址: https://github.com/Kaier33/image-hosting-service/blob/main/avatar.jpeg?raw=true  
 
