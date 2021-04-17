@@ -12,6 +12,6 @@ https://cdn.jsdelivr.net/gh/<你的github用户名>/<你的图床仓库名>@<仓
 
 > 举个🌰
 
-源图片地址: https://github.com/Kaier33/image-hosting-service/blob/main/avatar.jpeg?raw=true  
+源地址: https://github.com/Kaier33/image-hosting-service/blob/main/avatar.jpeg?raw=true  
 
 CDN: https://cdn.jsdelivr.net/gh/kaier33/image-hosting-service@main/avatar.jpeg
